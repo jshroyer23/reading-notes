@@ -1,4 +1,4 @@
-##Questions
+## Questions
 1. **T or F:**  Attribute names should be lower-case.
 2. **T or F:**  Comments are not visible when viewing the source code of a page.
 3. **T or F:**  Each section element can have its own header and footer.
@@ -13,7 +13,7 @@
 
 
 
-##Answers
+## Answers
 1. *True
 2. *False
 3. *True
