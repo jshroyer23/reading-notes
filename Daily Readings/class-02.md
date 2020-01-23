@@ -1,4 +1,4 @@
-Questions
+# Questions
 1. T or F:  Attributes are made up of two parts: a name and a value.
 2. T or F:  A CSS rule contains two parts: a selector and a declaration.
 3. T or F:  CSS selectors are not case sensitive.
@@ -13,9 +13,9 @@ Questions
 
 
 
-Answers
-1.  True
-2.  True
-3.  False
-4.  False
-5.  True
+# Answers
+1.  *True*
+2.  *True*
+3.  *False*
+4.  *False*
+5.  *True*
